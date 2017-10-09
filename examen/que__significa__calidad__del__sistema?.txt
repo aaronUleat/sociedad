@@ -1,0 +1,12 @@
+QUE SIGNIFICA CALIDAD DEL SISTEMA?
+
+*   Las companias de software envian productos imperfectos al mercado ya que el
+    tiempo de corregir y su costo impedira que los productos se pudieran vender.
+
+*   Ojo con el software imcompleto (fallas catastroficas).
+
+*   Que significa nivel aceptable de calidad en los sistemas?
+    -   Menos Errores en el software, pulgas.
+    -   Menos Errores en el hardware y facilidades.
+    -   Mejor calidad de datos en la entrada (Falla mas comun en un sistema de
+        negocios.)
