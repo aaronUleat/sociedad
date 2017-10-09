@@ -1,3 +1,4 @@
+<!-- font: rockwell -->
 # La ola de la autmatizacion.
 
 Un trabajador en una fabrica se acerca a una pila de cajas estas cajas tienen diferentes, formas, colores y estan en algun tipo de orden.
@@ -24,4 +25,7 @@ Por su puesto que los robots no son algo nuevo en las fabricas. Se han vuelto in
 
 Por ejemplo la compania de automoviles electricos Tesla, utiliza 160 robots flexibles que logran ensamblar 400 automoviles por semana. Las maquinas son capaces de forma autonoma de cambiar herramientas, empunarlas y relizar tareas diferentes. Este mismo robot instala los asientos, toma otras herramientas, y aplica adesivo y deja caer los parabrizas en su lugar. De acuerdo a la Federacion de Robotica, envios globales realizados por robots industriales aumentaron en un 60% entre 2000 y 2012, con un total de ventas de aproximadamente $28 billones en 2012. Por el momento el mercado que ha credito de una manera mas rapida es el chino, donde la instalacion de robots crecio en un 25% por ano entre 2005 y 2012.
 
-Estos robots en realidad son siegos pero su destreza esta en tiempos precisos y posicionamiento. En su gran minoria solamente pueden ver en dos dimenciones y solamente si hay suficiente luz. Ellos talvez puedan tomar algo de una superficie pero no tienen sentido de profundidad
+Estos robots en realidad son siegos pero su destreza esta en tiempos precisos y posicionamiento. En su gran minoria solamente pueden ver en dos dimenciones y solamente si hay suficiente luz. Ellos talvez puedan tomar algo de una superficie pero no tienen sentido de profundidad.
+
+[Tesla Cars Robots](https://www.youtube.com/watch?v=8_lfxPI5ObM)
+
