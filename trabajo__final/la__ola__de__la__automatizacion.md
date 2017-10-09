@@ -18,6 +18,8 @@ Ingenieros del Industrial Perception, Inc. En Silicon Valley empezaron una compa
 
 Los robots de Industrial Perception son extraodinarios por que su capacidad de tener nexos con la percepcion visual, computacion espacial, y destreza. En otras palabras estan invadiendo la ultima fronteras en la automatizacion de las maquinas. Que va a competir con trabajos manuales que todavia estan disponibles a los humanos.
 
+[Industrial Perception Inc. Robots](https://www.youtube.com/watch?v=RJd8WgDT4vI)
+
 Por su puesto que los robots no son algo nuevo en las fabricas. Se han vuelto indispensables casi que en todos los sectores de manofactura, desde automobiles hasta semiconductores.
 
 Por ejemplo la compania de automoviles electricos Tesla, utiliza 160 robots flexibles que logran ensamblar 400 automoviles por semana. Las maquinas son capaces de forma autonoma de cambiar herramientas, empunarlas y relizar tareas diferentes. Este mismo robot instala los asientos, toma otras herramientas, y aplica adesivo y deja caer los parabrizas en su lugar. De acuerdo a la Federacion de Robotica, envios globales realizados por robots industriales aumentaron en un 60% entre 2000 y 2012, con un total de ventas de aproximadamente $28 billones en 2012. Por el momento el mercado que ha credito de una manera mas rapida es el chino, donde la instalacion de robots crecio en un 25% por ano entre 2005 y 2012.
