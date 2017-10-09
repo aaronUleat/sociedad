@@ -29,4 +29,11 @@ Por ejemplo la compania de automoviles electricos Tesla, utiliza 160 robots flex
 
 Estos robots en realidad son siegos pero su destreza esta en tiempos precisos y posicionamiento. En su gran minoria solamente pueden ver en dos dimenciones y solamente si hay suficiente luz. Ellos talvez puedan tomar algo de una superficie pero no tienen sentido de profundidad.
 
+Lo que ha pasado es que muchos trabajos rutinarios han sido dejado por los humanos y tomados por los robots, por ejemplo bajar y subir cosas de camiones se ha vuelto trabajo de robots.
+
+La tecnologia que por ejemplo le da poder a los robots de Industrial Perception es la abilidad de ver en tres dimensiones, donde ofrece casos de estudio de expancion en campos inesperados.
+
+Se podria argumentar entonces que el origen de la vista en los robots se puede rastrear alredor de Noviembre 2006, cuando Nintendo introdujo Wii.
+La maquina de nintendo incluia un nuevo tipo de control para la consola: Una varita wireless incorporada llamada acelerómetro. El acelerómetro es capaz de detectar movimientos en tres dimenciones y despues emitir datos por medio de corriente que podian ser interpretados por la consola de juego. De esta manera lograron capturar movimientos del cuerpo y gestos. El resultado fue una experiencia de juego diferente. Esta innovacion de Nintendo rompió el estereotipo del niño nerd pegado a un monitor y un joystick, de esta manera habrieron una nueva frontera a los juegos activos y al ejercicio.
+
 
