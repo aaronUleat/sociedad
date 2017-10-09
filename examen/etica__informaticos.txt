@@ -1,0 +1,17 @@
+QUE TENEMOS QUE RECONOCER COMO CODIGO DE ETICA COMO INFORMATICOS?
+
+1)  Mantener el estandar mas alto en conducta profesional.
+2)  Evitar situciacoes que creen conflictos de interes.
+3)  No violar el caracter confidencial de su patron o de aquellos a quienes
+    prestan sus servicios.
+4)  Configurar lo aprendiendo de tal modo que su conocimiento siga el rito de
+    la tecnologia.
+5)  Nunca retener informacion relativa a un problema o una situacion de interes
+    publico.
+6)  Usar la informacion juiciosamente y mantener en todo momento la integridad
+    del sistema.
+7)  No olvidar los derechos o la privacidad de los demas.
+8)  Tomar medidas adecuadas al encontrar practicas no eticas o ilegales.
+9)  No aprovechar en beneficio propio los defectos del sistema de computo de un
+    patron.
+10) Realizar todos los trabajos en la mejor medida posible.

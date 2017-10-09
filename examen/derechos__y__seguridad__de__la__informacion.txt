@@ -1,0 +1,9 @@
+*   Opcion de exclusion:
+    -   Permite que se recopile informacion personal hasta que el consumidor
+        solicite que no se recopilen datos.
+*   Opcion de la aceptacion:
+    -   A un negocio se le prohibe recopilar cualquier informacion personal a no
+        ser que el consumidor apruebe especificamente la recopilacion y el uso
+        de la informacion.
+* Soluciones Tecnicas:
+    -   Plataforma de Preferencias de Privacidad estandard P3P.
