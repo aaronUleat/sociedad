@@ -42,8 +42,33 @@ de-etica/)
 3. No violar el caracter confidencial de su patron o de aquellos a quienes prestan sus servicios.
 4. Configurar lo aprendido de tal modo que su conocimiento siga el ritmo de la tecnologia.
 5. Nunca retener informacion relativa a un problema o una situcion de interes publico.
+6. Usar la informacion juiciosamente y mantener en todo momento la integridad del sistema.
+7. No olvidar los derechos y privacidad de los demas.
+8. Tomar medidas adecuadas al encontrar practicas no eticas o ilegales.
+9. No aprovechar en beneficio propio los defectos del sistema del computo de un patron.
+10. Realizar todos los trabajos en la mejor medida posible.
 
+# Los derechos humanos frente a la informatica.
+El problema es la vulnerabilidad de los sistemas de computo que han aumentado en los ultimos anos, por lo que el problema de la seguridad se ha vuelto critico. Las primeras computadoras eran accesibles para unos cuantos especialistas, sin embargo, al aumentar el numero de los sistemas de computo, la interaccion directa con estos sistemas y sus datos se volvio algo rutinario hasta para los usuarios cacuales.
+
+# Regulacion Juridica.
+
+La regulacion juridica de los derechos y obligaciones consecuentes de la creacion, distribucion, exploracion y/o utilizacion del hardware y el software, con su proteccion en los derechos de propiedad intelectual, incluso con un obligado acercamiento a la proteccion juridica de los productos multimedia.
+
+# Delito Informatico
+El llamdo delito informatico, entendiendo por la relizacion de una accion que reuniendo las caracteriscas que demilitan el concepto de delito, sea  llevada a cabo utilizando un electo informatico y/o telematico vulnerando los derechos del titular de un elemento informatizo, ya se hardware o softwawre.
+
+# Confidencialidad 
+
+Una persona que proporcia informacion acerca de ella o cualquier departamento o empresa tiene el derecho a exigir a este departamento de no divulgar la informacion que le fue proporcionada.
+
+# Reunion de datos.
+
+Un ejemplo de recoleccion de datos de dudosa justificacion los constituyen las empresas privadas que reunen la informacion personal para proporcionarlas a companias de seguros, patrones y otorgantes de creditos. 
+
+Los datos de este tipo muchas veces se obtienen cuando los investigadores entrevistan a dos o tres de los vecinos o conocidos de la persona en cuestion.
   
+
 
 
 
