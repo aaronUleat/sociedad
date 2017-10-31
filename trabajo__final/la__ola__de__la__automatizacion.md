@@ -1,4 +1,4 @@
-<!-- font: rockwell -->
+
 # La ola de la autmatizacion.
 
 Un trabajador en una fabrica se acerca a una pila de cajas estas cajas tienen diferentes, formas, colores y estan en algun tipo de orden.
@@ -34,6 +34,15 @@ Lo que ha pasado es que muchos trabajos rutinarios han sido dejado por los human
 La tecnologia que por ejemplo le da poder a los robots de Industrial Perception es la abilidad de ver en tres dimensiones, donde ofrece casos de estudio de expancion en campos inesperados.
 
 Se podria argumentar entonces que el origen de la vista en los robots se puede rastrear alredor de Noviembre 2006, cuando Nintendo introdujo Wii.
-La maquina de nintendo incluia un nuevo tipo de control para la consola: Una varita wireless incorporada llamada acelerómetro. El acelerómetro es capaz de detectar movimientos en tres dimenciones y despues emitir datos por medio de corriente que podian ser interpretados por la consola de juego. De esta manera lograron capturar movimientos del cuerpo y gestos. El resultado fue una experiencia de juego diferente. Esta innovacion de Nintendo rompió el estereotipo del niño nerd pegado a un monitor y un joystick, de esta manera habrieron una nueva frontera a los juegos activos y al ejercicio.
+La maquina de nintendo incluia un nuevo tipo de control para la consola: Una varita wireless incorporada llamada acelerómetro. 
+El acelerómetro es capaz de detectar movimientos en tres dimenciones y despues emitir datos por medio de corriente que 
+podian ser interpretados por la consola de juego. De esta manera lograron capturar movimientos del cuerpo y gestos. El 
+resultado fue una experiencia de juego diferente. Esta innovacion de Nintendo rompió el estereotipo del niño nerd pegado 
+a un monitor y un joystick, de esta manera habrieron una nueva frontera a los juegos activos y al ejercicio.
+
+## parte 2
+Tambien demando respuesta de los competidores de consolas de video juegos. Sony Corporation, los cuales son los creadores
+de el PlayStation, eligio copiar el diseno de Nintendo y introdujo su propio guante de detenccion de movimiento.
+Microsoft por otra parte 
 
 

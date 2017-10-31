@@ -67,22 +67,3 @@ Una persona que proporcia informacion acerca de ella o cualquier departamento o 
 Un ejemplo de recoleccion de datos de dudosa justificacion los constituyen las empresas privadas que reunen la informacion personal para proporcionarlas a companias de seguros, patrones y otorgantes de creditos. 
 
 Los datos de este tipo muchas veces se obtienen cuando los investigadores entrevistan a dos o tres de los vecinos o conocidos de la persona en cuestion.
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
